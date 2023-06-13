@@ -1,7 +1,7 @@
 Hi 👋 My name is Artem
 ======================
 
-Front End Developer
+Frontend Developer
 -------------------
 
 Hello! I'm Artem, a frontend developer specializing in creating exceptional user interfaces. With a strong foundation in web technologies and a passion for delivering outstanding user experiences, I strive to develop efficient and user-friendly applications.
