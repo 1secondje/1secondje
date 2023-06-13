@@ -29,13 +29,3 @@ Hello! I'm Artem, a frontend developer specializing in creating exceptional user
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/1secondje" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/1secondje" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/artem-nikitiukk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/1secondje/StarWars" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=1secondje&repo=StarWars&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/1secondje/weatherApp" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=1secondje&repo=weatherApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/1secondje/portfolioCreator" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=1secondje&repo=portfolioCreator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/1secondje/toDoList" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=1secondje&repo=toDoList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
